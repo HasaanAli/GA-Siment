@@ -21,6 +21,7 @@ public class GASiment {
             population[i].print();
             population[i].printFitness();
         }
+
         int iterations = 1000;
         for (int iterNo = 0; iterNo < iterations; iterNo++) {
         //selection
